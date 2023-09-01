@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+
+/线程学习/x64/Debug
+/线程学习/.vs/线程学习
+/线程学习/ConsoleApplication1/x64/Debug/ConsoleA.e97b13c6.tlog
+/线程学习/ConsoleApplication1/x64/Debug/27.2线程.tlog
+/线程学习/ConsoleApplication1/x64/Debug
